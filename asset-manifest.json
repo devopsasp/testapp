@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "//devopsasp.github.io/static/css/main.073c9b0a.css",
-    "main.js": "//devopsasp.github.io/static/js/main.ad15b85b.js",
-    "static/js/787.25327953.chunk.js": "//devopsasp.github.io/static/js/787.25327953.chunk.js",
-    "static/media/logo.svg": "//devopsasp.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "//devopsasp.github.io/index.html",
-    "main.073c9b0a.css.map": "//devopsasp.github.io/static/css/main.073c9b0a.css.map",
-    "main.ad15b85b.js.map": "//devopsasp.github.io/static/js/main.ad15b85b.js.map",
-    "787.25327953.chunk.js.map": "//devopsasp.github.io/static/js/787.25327953.chunk.js.map"
+    "main.css": "/testapp/static/css/main.073c9b0a.css",
+    "main.js": "/testapp/static/js/main.227713e8.js",
+    "static/js/787.25327953.chunk.js": "/testapp/static/js/787.25327953.chunk.js",
+    "static/media/logo.svg": "/testapp/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/testapp/index.html",
+    "main.073c9b0a.css.map": "/testapp/static/css/main.073c9b0a.css.map",
+    "main.227713e8.js.map": "/testapp/static/js/main.227713e8.js.map",
+    "787.25327953.chunk.js.map": "/testapp/static/js/787.25327953.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.ad15b85b.js"
+    "static/js/main.227713e8.js"
   ]
 }
